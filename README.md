@@ -61,9 +61,6 @@
 <a href="https://github.com/benedicti0n/web-dev-projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benedicti0n&repo=web-dev-projects&show_owner=true&theme=radical" />
 </a>
-<a href="https://github.com/benedicti0n/MyPortfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benedicti0n&repo=MyPortfolio&show_owner=true&theme=radical" />
-</a>
 
 </br>
 
