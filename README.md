@@ -55,7 +55,7 @@
 <a href="https://github.com/benedicti0n/striver-sdesheet-A2Z">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benedicti0n&repo=striver-sdesheet-A2Z&show_owner=true&theme=radical" />
 </a>
-<a href="https://github.com/benedicti0n/appDev">
+<a href="https://github.com/benedicti0n/AppDev-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benedicti0n&repo=AppDev-Projects&show_owner=true&theme=radical" />
 </a>
 <a href="https://github.com/benedicti0n/web-dev-projects">
