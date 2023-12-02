@@ -1,10 +1,10 @@
 ## 💫 About Me:
 
-<img align="center" alt="coding" width="100%"  src="./src/gif.gif">
+<img align="center" alt="coding" width="90%"  src="./src/gif.gif">
 
 </br>
 
-- 👻 Myself Ashesh Banerjee, people sometimes call me by Benediction
+- 👻 Myself Ashesh Bandopadhyay, people sometimes call me by Benediction
 
 - 🫡 I am currently pursuing BCA from IEM Kolkata.
 
@@ -55,8 +55,8 @@
 <a href="https://github.com/benedicti0n/AppDev-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benedicti0n&repo=AppDev-Projects&show_owner=true&theme=radical" />
 </a>
-<a href="https://github.com/benedicti0n/web-dev-projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benedicti0n&repo=web-dev-projects&show_owner=true&theme=radical" />
+<a href="https://github.com/TreeBitsIO/Web-Dev-Assignments">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TreeBitsIO&repo=Web-Dev-Assignments&show_owner=true&theme=radical" />
 </a>
 
 </br>
