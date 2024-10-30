@@ -42,23 +42,3 @@
 <img height="35px" width="45px" alt="javascript" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg"/></p>
 
 </br>
-
-## 📊 GitHub Stats:
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=benedicti0n&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Ashesh's github stats" /> | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benedicti0n&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=donut" alt="Ashesh's github stats" /> |
-| ------------- | ------------- |
-
-</br>
-
-## 📍 Pinned Repositories
-
-<a href="https://github.com/benedicti0n/AppDev-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benedicti0n&repo=AppDev-Projects&show_owner=true&theme=radical" />
-</a>
-<a href="https://github.com/TreeBitsIO/Web-Dev-Assignments">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TreeBitsIO&repo=Web-Dev-Assignments&show_owner=true&theme=radical" />
-</a>
-
-</br>
-
-
