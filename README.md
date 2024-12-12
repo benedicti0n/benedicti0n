@@ -17,28 +17,31 @@
 
 </br>
 
-## 🌐 Socials:
-
-<p align="left">
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashesh-bandopadhyay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashesh | LinkedIn" height="35px" width="45px" /></a>
-<a href="https://www.facebook.com/ashesh.bandopadhyay1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ashesh | Facebook" height="35px" width="45px" /></a>
-<a href="https://instagram.com/__.benediction.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ashesh | Instagram" height="35px" width="45px" /></a>
-<a href="https://twitter.com/benedictionAsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ashesh | Twitter" height="35px" width="45px" /></a>
-<a href="https://leetcode.com/benediction/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ashesh | LeetCode" height="35px" width="45px" /></a>
-<a href="https://codeforces.com/profile/benediction" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Ashesh | CodeForces" height="35px" width="45px" /></a>
-
-</p>
 
 </br>
 
 ## 💻 Tech Stack:
 
-<p><img height="35px" width="45px" alt="c" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/c.svg"/> 
-<img height="35px" width="45px" alt="cpp" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg"/> 
-<img height="35px" width="45px" alt="cpp" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/kotlin.svg"/> 
-<img height="35px" width="45px" alt="cpp" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg"/> 
-<img height="35px" width="45px" alt="cpp" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg"/> 
-<img height="35px" width="45px" alt="javascript" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg"/></p>
+<p>
+<img height="35px" width="45px" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> 
+<img height="35px" width="45px" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/> 
+<img height="35px" width="45px" alt="express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/> 
+<img height="35px" width="45px" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/> 
+<img height="35px" width="45px" alt="nextjs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/> 
+<img height="35px" width="45px" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/> 
+<img height="35px" width="45px" alt="notion" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg"/> 
+<img height="35px" width="45px" alt="postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"/> 
+<img height="35px" width="45px" alt="figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/> 
+</p>
 
 </br>
+
+## 🌐 Socials:
+
+<p align="left">
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashesh-bandopadhyay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashesh | LinkedIn" height="35px" width="45px" /></a>
+<a href="https://instagram.com/__.benediction.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ashesh | Instagram" height="35px" width="45px" /></a>
+<a href="https://twitter.com/benedictionAsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ashesh | Twitter" height="35px" width="45px" /></a>
+
+</p>
