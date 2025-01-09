@@ -1,6 +1,6 @@
 # 💫 About Me
 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fbenedicti0ne1761.png?alt=media)
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fbenedicti0n57194.png?alt=media)
 
 # 💻 Tech Stack
 
