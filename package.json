@@ -1,0 +1,11 @@
+{
+  "name": "profile-readme-updater",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "npx tsx scripts/update-readme.ts"
+  },
+  "dependencies": {
+    "tsx": "^4.0.0"
+  }
+}

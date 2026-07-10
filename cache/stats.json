@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-07-10T10:36:44.980Z",
+  "user": {
+    "username": "benedicti0n",
+    "followers": 57,
+    "following": 51,
+    "publicRepos": 39
+  },
+  "repositories": {},
+  "totals": {
+    "stars": 10,
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0,
+    "netLoc": 0,
+    "topLanguages": {
+      "TypeScript": 3246628,
+      "HTML": 74398,
+      "JavaScript": 735561,
+      "CSS": 950754,
+      "C#": 12101,
+      "SCSS": 1907,
+      "MDX": 9524,
+      "Swift": 66063,
+      "Shell": 15297
+    }
+  }
+}
