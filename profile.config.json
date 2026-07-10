@@ -11,12 +11,12 @@
     "theme": "auto"
   },
   "avatarEffect": {
-    "type": "cyberAscii",
+    "type": "minimalAscii",
     "options": {
-      "density": 1.2,
-      "glow": 0.5,
-      "contrast": 1.3,
-      "background": "#000000"
+      "characterSet": "@#*:. ",
+      "cellSize": 10,
+      "threshold": 128,
+      "colored": false
     }
   },
   "fields": {
@@ -47,8 +47,7 @@
     ],
     "contact": {
       "email": "lbandopadhyay2@gmail.com",
-      "twitter": "asheshtwt",
-      "linkedin": "ashesh"
+      "twitter": "asheshtwt"
     }
   },
   "dynamicStats": {
