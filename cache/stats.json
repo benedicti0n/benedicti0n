@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-11T06:29:31.485Z",
+  "lastUpdated": "2026-07-11T07:24:31.759Z",
   "user": {
     "username": "benedicti0n",
     "followers": 57,
@@ -9,35 +9,35 @@
     "contributedRepos": 1
   },
   "repositories": {
-    "benedicti0n/benedicti0n": {
-      "nameWithOwner": "benedicti0n/benedicti0n",
-      "defaultBranch": "main",
-      "defaultBranchOid": "ce94af1225acba483174d10c06cf2ac00a6f2a17",
-      "defaultBranchCommitCount": 22,
-      "stars": 0,
-      "userCommitCount": 21,
-      "additions": 896,
-      "deletions": 278,
-      "topLanguages": {
-        "TypeScript": 13043
-      },
-      "lastCalculatedAt": "2026-07-11T06:28:54.172Z"
-    },
     "benedicti0n/githubwallpaper": {
       "nameWithOwner": "benedicti0n/githubwallpaper",
       "defaultBranch": "main",
-      "defaultBranchOid": "b312cf29050d89d376bcd448a14256b4e889bad6",
-      "defaultBranchCommitCount": 6,
+      "defaultBranchOid": "9e3a9403137419347e6226a27c928cebd01da715",
+      "defaultBranchCommitCount": 7,
       "stars": 0,
-      "userCommitCount": 6,
-      "additions": 11990,
-      "deletions": 1798,
+      "userCommitCount": 7,
+      "additions": 0,
+      "deletions": 0,
       "topLanguages": {
-        "TypeScript": 137140,
+        "TypeScript": 137756,
         "CSS": 655,
         "JavaScript": 589
       },
-      "lastCalculatedAt": "2026-07-11T06:28:56.589Z"
+      "lastCalculatedAt": "2026-07-11T07:23:51.797Z"
+    },
+    "benedicti0n/benedicti0n": {
+      "nameWithOwner": "benedicti0n/benedicti0n",
+      "defaultBranch": "main",
+      "defaultBranchOid": "382c395ad6449bd9254d8c8fc29b76af713f6fbc",
+      "defaultBranchCommitCount": 23,
+      "stars": 0,
+      "userCommitCount": 22,
+      "additions": 0,
+      "deletions": 0,
+      "topLanguages": {
+        "TypeScript": 18539
+      },
+      "lastCalculatedAt": "2026-07-11T07:23:56.892Z"
     },
     "benedicti0n/shapesoup": {
       "nameWithOwner": "benedicti0n/shapesoup",
@@ -53,7 +53,7 @@
         "CSS": 4299,
         "JavaScript": 559
       },
-      "lastCalculatedAt": "2026-07-11T06:28:57.548Z"
+      "lastCalculatedAt": "2026-07-11T07:23:57.959Z"
     },
     "benedicti0n/effectsoup": {
       "nameWithOwner": "benedicti0n/effectsoup",
@@ -70,7 +70,7 @@
         "JavaScript": 13733,
         "CSS": 1304
       },
-      "lastCalculatedAt": "2026-07-11T06:28:58.452Z"
+      "lastCalculatedAt": "2026-07-11T07:23:58.886Z"
     },
     "benedicti0n/KomaTranslate": {
       "nameWithOwner": "benedicti0n/KomaTranslate",
@@ -86,7 +86,7 @@
         "CSS": 3268,
         "HTML": 903
       },
-      "lastCalculatedAt": "2026-07-11T06:28:59.354Z"
+      "lastCalculatedAt": "2026-07-11T07:23:59.804Z"
     },
     "benedicti0n/cursorlume": {
       "nameWithOwner": "benedicti0n/cursorlume",
@@ -101,7 +101,7 @@
         "Swift": 66063,
         "Shell": 838
       },
-      "lastCalculatedAt": "2026-07-11T06:29:00.298Z"
+      "lastCalculatedAt": "2026-07-11T07:24:00.771Z"
     },
     "benedicti0n/PromptMyUI": {
       "nameWithOwner": "benedicti0n/PromptMyUI",
@@ -117,7 +117,7 @@
         "CSS": 3633,
         "JavaScript": 559
       },
-      "lastCalculatedAt": "2026-07-11T06:29:01.227Z"
+      "lastCalculatedAt": "2026-07-11T07:24:01.693Z"
     },
     "benedicti0n/clipforge": {
       "nameWithOwner": "benedicti0n/clipforge",
@@ -134,7 +134,7 @@
         "JavaScript": 1893,
         "HTML": 1095
       },
-      "lastCalculatedAt": "2026-07-11T06:29:02.196Z"
+      "lastCalculatedAt": "2026-07-11T07:24:02.674Z"
     },
     "benedicti0n/videogen": {
       "nameWithOwner": "benedicti0n/videogen",
@@ -146,7 +146,7 @@
       "additions": 1,
       "deletions": 0,
       "topLanguages": {},
-      "lastCalculatedAt": "2026-07-11T06:29:03.106Z"
+      "lastCalculatedAt": "2026-07-11T07:24:03.718Z"
     },
     "benedicti0n/bruno-simon-3js-webgl": {
       "nameWithOwner": "benedicti0n/bruno-simon-3js-webgl",
@@ -161,7 +161,7 @@
         "JavaScript": 2054,
         "HTML": 654
       },
-      "lastCalculatedAt": "2026-07-11T06:29:04.048Z"
+      "lastCalculatedAt": "2026-07-11T07:24:04.655Z"
     },
     "benedicti0n/gitpaper": {
       "nameWithOwner": "benedicti0n/gitpaper",
@@ -177,7 +177,7 @@
         "CSS": 5142,
         "JavaScript": 474
       },
-      "lastCalculatedAt": "2026-07-11T06:29:04.971Z"
+      "lastCalculatedAt": "2026-07-11T07:24:05.643Z"
     },
     "benedicti0n/gitpaper-extension": {
       "nameWithOwner": "benedicti0n/gitpaper-extension",
@@ -193,7 +193,7 @@
         "CSS": 7967,
         "JavaScript": 2778
       },
-      "lastCalculatedAt": "2026-07-11T06:29:05.904Z"
+      "lastCalculatedAt": "2026-07-11T07:24:06.668Z"
     },
     "benedicti0n/cbmo-ai-chat": {
       "nameWithOwner": "benedicti0n/cbmo-ai-chat",
@@ -209,7 +209,7 @@
         "CSS": 2873,
         "JavaScript": 732
       },
-      "lastCalculatedAt": "2026-07-11T06:29:06.799Z"
+      "lastCalculatedAt": "2026-07-11T07:24:07.664Z"
     },
     "benedicti0n/PORTFOLIO-AmiyaBandopadhyay": {
       "nameWithOwner": "benedicti0n/PORTFOLIO-AmiyaBandopadhyay",
@@ -225,7 +225,7 @@
         "CSS": 488,
         "JavaScript": 474
       },
-      "lastCalculatedAt": "2026-07-11T06:29:07.729Z"
+      "lastCalculatedAt": "2026-07-11T07:24:08.585Z"
     },
     "benedicti0n/B-Leaf": {
       "nameWithOwner": "benedicti0n/B-Leaf",
@@ -237,7 +237,7 @@
       "additions": 3795751,
       "deletions": 5536,
       "topLanguages": {},
-      "lastCalculatedAt": "2026-07-11T06:29:08.667Z"
+      "lastCalculatedAt": "2026-07-11T07:24:09.479Z"
     },
     "benedicti0n/portfolio": {
       "nameWithOwner": "benedicti0n/portfolio",
@@ -253,7 +253,7 @@
         "CSS": 2485,
         "JavaScript": 2441
       },
-      "lastCalculatedAt": "2026-07-11T06:29:09.916Z"
+      "lastCalculatedAt": "2026-07-11T07:24:10.370Z"
     },
     "benedicti0n/litcode-scrapper": {
       "nameWithOwner": "benedicti0n/litcode-scrapper",
@@ -267,7 +267,7 @@
       "topLanguages": {
         "JavaScript": 11789
       },
-      "lastCalculatedAt": "2026-07-11T06:29:10.785Z"
+      "lastCalculatedAt": "2026-07-11T07:24:11.260Z"
     },
     "benedicti0n/snow-event-decor": {
       "nameWithOwner": "benedicti0n/snow-event-decor",
@@ -283,7 +283,7 @@
         "JavaScript": 528,
         "CSS": 274
       },
-      "lastCalculatedAt": "2026-07-11T06:29:11.682Z"
+      "lastCalculatedAt": "2026-07-11T07:24:12.197Z"
     },
     "benedicti0n/jobsforce.ai": {
       "nameWithOwner": "benedicti0n/jobsforce.ai",
@@ -299,7 +299,7 @@
         "JavaScript": 69453,
         "CSS": 6147
       },
-      "lastCalculatedAt": "2026-07-11T06:29:12.582Z"
+      "lastCalculatedAt": "2026-07-11T07:24:13.091Z"
     },
     "benedicti0n/cuberto-clone": {
       "nameWithOwner": "benedicti0n/cuberto-clone",
@@ -315,7 +315,7 @@
         "CSS": 5485,
         "JavaScript": 474
       },
-      "lastCalculatedAt": "2026-07-11T06:29:13.850Z"
+      "lastCalculatedAt": "2026-07-11T07:24:13.949Z"
     },
     "benedicti0n/github-live-wallpaper": {
       "nameWithOwner": "benedicti0n/github-live-wallpaper",
@@ -332,7 +332,7 @@
         "JavaScript": 734,
         "HTML": 361
       },
-      "lastCalculatedAt": "2026-07-11T06:29:14.755Z"
+      "lastCalculatedAt": "2026-07-11T07:24:14.935Z"
     },
     "benedicti0n/nextjs-portfolio-example": {
       "nameWithOwner": "benedicti0n/nextjs-portfolio-example",
@@ -349,7 +349,7 @@
         "CSS": 2481,
         "JavaScript": 72
       },
-      "lastCalculatedAt": "2026-07-11T06:29:15.661Z"
+      "lastCalculatedAt": "2026-07-11T07:24:15.852Z"
     },
     "benedicti0n/chatroom": {
       "nameWithOwner": "benedicti0n/chatroom",
@@ -366,7 +366,7 @@
         "CSS": 403,
         "HTML": 366
       },
-      "lastCalculatedAt": "2026-07-11T06:29:16.522Z"
+      "lastCalculatedAt": "2026-07-11T07:24:16.747Z"
     },
     "benedicti0n/Coursemy": {
       "nameWithOwner": "benedicti0n/Coursemy",
@@ -383,7 +383,7 @@
         "HTML": 366,
         "CSS": 59
       },
-      "lastCalculatedAt": "2026-07-11T06:29:17.417Z"
+      "lastCalculatedAt": "2026-07-11T07:24:17.613Z"
     },
     "benedicti0n/Innovacion": {
       "nameWithOwner": "benedicti0n/Innovacion",
@@ -398,7 +398,7 @@
         "JavaScript": 61450,
         "CSS": 1292
       },
-      "lastCalculatedAt": "2026-07-11T06:29:18.362Z"
+      "lastCalculatedAt": "2026-07-11T07:24:18.533Z"
     },
     "benedicti0n/Playtopia2k24": {
       "nameWithOwner": "benedicti0n/Playtopia2k24",
@@ -414,7 +414,7 @@
         "CSS": 16744,
         "HTML": 861
       },
-      "lastCalculatedAt": "2026-07-11T06:29:19.314Z"
+      "lastCalculatedAt": "2026-07-11T07:24:19.573Z"
     },
     "benedicti0n/BlogBox-old": {
       "nameWithOwner": "benedicti0n/BlogBox-old",
@@ -430,7 +430,7 @@
         "CSS": 1658,
         "HTML": 361
       },
-      "lastCalculatedAt": "2026-07-11T06:29:20.221Z"
+      "lastCalculatedAt": "2026-07-11T07:24:20.582Z"
     },
     "benedicti0n/INNOVACION2025": {
       "nameWithOwner": "benedicti0n/INNOVACION2025",
@@ -447,7 +447,7 @@
         "TypeScript": 1899,
         "HTML": 361
       },
-      "lastCalculatedAt": "2026-07-11T06:29:21.143Z"
+      "lastCalculatedAt": "2026-07-11T07:24:21.517Z"
     },
     "benedicti0n/Playtopia-new": {
       "nameWithOwner": "benedicti0n/Playtopia-new",
@@ -463,7 +463,7 @@
         "CSS": 15573,
         "HTML": 431
       },
-      "lastCalculatedAt": "2026-07-11T06:29:22.028Z"
+      "lastCalculatedAt": "2026-07-11T07:24:22.383Z"
     },
     "benedicti0n/Playtopia": {
       "nameWithOwner": "benedicti0n/Playtopia",
@@ -480,7 +480,7 @@
         "SCSS": 1907,
         "HTML": 879
       },
-      "lastCalculatedAt": "2026-07-11T06:29:22.941Z"
+      "lastCalculatedAt": "2026-07-11T07:24:23.360Z"
     },
     "benedicti0n/Snake-Game": {
       "nameWithOwner": "benedicti0n/Snake-Game",
@@ -496,7 +496,7 @@
         "HTML": 449,
         "CSS": 309
       },
-      "lastCalculatedAt": "2026-07-11T06:29:23.842Z"
+      "lastCalculatedAt": "2026-07-11T07:24:24.385Z"
     },
     "benedicti0n/todo-app-js": {
       "nameWithOwner": "benedicti0n/todo-app-js",
@@ -512,7 +512,7 @@
         "HTML": 1338,
         "CSS": 811
       },
-      "lastCalculatedAt": "2026-07-11T06:29:24.769Z"
+      "lastCalculatedAt": "2026-07-11T07:24:25.220Z"
     },
     "benedicti0n/Valentine-Card": {
       "nameWithOwner": "benedicti0n/Valentine-Card",
@@ -527,7 +527,7 @@
         "JavaScript": 147,
         "CSS": 58
       },
-      "lastCalculatedAt": "2026-07-11T06:29:25.649Z"
+      "lastCalculatedAt": "2026-07-11T07:24:26.098Z"
     },
     "benedicti0n/Image-Search": {
       "nameWithOwner": "benedicti0n/Image-Search",
@@ -543,7 +543,7 @@
         "CSS": 2615,
         "HTML": 361
       },
-      "lastCalculatedAt": "2026-07-11T06:29:26.561Z"
+      "lastCalculatedAt": "2026-07-11T07:24:27.033Z"
     },
     "benedicti0n/Weather-App": {
       "nameWithOwner": "benedicti0n/Weather-App",
@@ -558,7 +558,7 @@
         "JavaScript": 143,
         "CSS": 58
       },
-      "lastCalculatedAt": "2026-07-11T06:29:27.799Z"
+      "lastCalculatedAt": "2026-07-11T07:24:28.042Z"
     },
     "benedicti0n/infinite-scroll": {
       "nameWithOwner": "benedicti0n/infinite-scroll",
@@ -574,7 +574,7 @@
         "JavaScript": 611,
         "HTML": 413
       },
-      "lastCalculatedAt": "2026-07-11T06:29:28.683Z"
+      "lastCalculatedAt": "2026-07-11T07:24:28.925Z"
     },
     "benedicti0n/Web-Dev-Assignments": {
       "nameWithOwner": "benedicti0n/Web-Dev-Assignments",
@@ -590,7 +590,7 @@
         "CSS": 46094,
         "JavaScript": 959
       },
-      "lastCalculatedAt": "2026-07-11T06:29:29.641Z"
+      "lastCalculatedAt": "2026-07-11T07:24:29.846Z"
     },
     "benedicti0n/githubpp": {
       "nameWithOwner": "benedicti0n/githubpp",
@@ -606,7 +606,7 @@
         "C#": 12101,
         "JavaScript": 9039
       },
-      "lastCalculatedAt": "2026-07-11T06:29:30.593Z"
+      "lastCalculatedAt": "2026-07-11T07:24:30.833Z"
     },
     "benedicti0n/vivaciousmohunbagan-webpage": {
       "nameWithOwner": "benedicti0n/vivaciousmohunbagan-webpage",
@@ -622,17 +622,17 @@
         "CSS": 7213,
         "JavaScript": 484
       },
-      "lastCalculatedAt": "2026-07-11T06:29:31.485Z"
+      "lastCalculatedAt": "2026-07-11T07:24:31.759Z"
     }
   },
   "totals": {
     "stars": 10,
-    "commits": 1479,
-    "additions": 4828801,
-    "deletions": 680097,
-    "netLoc": 4148704,
+    "commits": 1481,
+    "additions": 4815915,
+    "deletions": 678021,
+    "netLoc": 4137894,
     "topLanguages": {
-      "TypeScript": 3396056,
+      "TypeScript": 3402168,
       "CSS": 951409,
       "JavaScript": 736150,
       "Shell": 15297,
