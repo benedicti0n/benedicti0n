@@ -1,0 +1,17 @@
+{
+  "leftArtX": 15,
+  "leftArtY": 30,
+  "leftArtWidth": 360,
+  "leftArtHeight": 480,
+  "targetAspectRatio": 0.75,
+  "cropZoom": 1,
+  "cropPositionX": 50,
+  "cropPositionY": 50,
+  "cropX": 23,
+  "cropY": 0,
+  "cropWidth": 690,
+  "cropHeight": 920,
+  "outputWidth": 360,
+  "outputHeight": 480,
+  "mode": "cover"
+}

@@ -1,324 +1,347 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-11T06:05:52.317Z",
+  "lastUpdated": "2026-07-11T06:29:31.485Z",
   "user": {
     "username": "benedicti0n",
     "followers": 57,
-    "following": 58,
-    "publicRepos": 39
+    "following": 51,
+    "publicRepos": 39,
+    "contributedRepos": 1
   },
   "repositories": {
+    "benedicti0n/benedicti0n": {
+      "nameWithOwner": "benedicti0n/benedicti0n",
+      "defaultBranch": "main",
+      "defaultBranchOid": "ce94af1225acba483174d10c06cf2ac00a6f2a17",
+      "defaultBranchCommitCount": 22,
+      "stars": 0,
+      "userCommitCount": 21,
+      "additions": 896,
+      "deletions": 278,
+      "topLanguages": {
+        "TypeScript": 13043
+      },
+      "lastCalculatedAt": "2026-07-11T06:28:54.172Z"
+    },
     "benedicti0n/githubwallpaper": {
       "nameWithOwner": "benedicti0n/githubwallpaper",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "b312cf29050d89d376bcd448a14256b4e889bad6",
+      "defaultBranchCommitCount": 6,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 6,
+      "additions": 11990,
+      "deletions": 1798,
       "topLanguages": {
         "TypeScript": 137140,
         "CSS": 655,
         "JavaScript": 589
       },
-      "lastCalculatedAt": "2026-07-11T06:05:21.868Z"
-    },
-    "benedicti0n/benedicti0n": {
-      "nameWithOwner": "benedicti0n/benedicti0n",
-      "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
-      "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
-      "topLanguages": {
-        "TypeScript": 13043
-      },
-      "lastCalculatedAt": "2026-07-11T06:05:22.619Z"
+      "lastCalculatedAt": "2026-07-11T06:28:56.589Z"
     },
     "benedicti0n/shapesoup": {
       "nameWithOwner": "benedicti0n/shapesoup",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "c6a0504bc6dff216e550241f2b28e4161ad4d931",
+      "defaultBranchCommitCount": 26,
       "stars": 3,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 26,
+      "additions": 30728,
+      "deletions": 13368,
       "topLanguages": {
         "TypeScript": 345410,
         "CSS": 4299,
         "JavaScript": 559
       },
-      "lastCalculatedAt": "2026-07-11T06:05:23.401Z"
+      "lastCalculatedAt": "2026-07-11T06:28:57.548Z"
     },
     "benedicti0n/effectsoup": {
       "nameWithOwner": "benedicti0n/effectsoup",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "b9b35b2ac1a66f60c2f2885ef02fdf305d80e686",
+      "defaultBranchCommitCount": 99,
       "stars": 4,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 93,
+      "additions": 62256,
+      "deletions": 27880,
       "topLanguages": {
         "TypeScript": 726306,
         "Shell": 14459,
         "JavaScript": 13733,
         "CSS": 1304
       },
-      "lastCalculatedAt": "2026-07-11T06:05:24.277Z"
+      "lastCalculatedAt": "2026-07-11T06:28:58.452Z"
     },
     "benedicti0n/KomaTranslate": {
       "nameWithOwner": "benedicti0n/KomaTranslate",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "8589a83d48a83864940f4f64a0fa0baceec64dd6",
+      "defaultBranchCommitCount": 7,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 7,
+      "additions": 10911,
+      "deletions": 242,
       "topLanguages": {
         "TypeScript": 117490,
         "CSS": 3268,
         "HTML": 903
       },
-      "lastCalculatedAt": "2026-07-11T06:05:25.195Z"
+      "lastCalculatedAt": "2026-07-11T06:28:59.354Z"
     },
     "benedicti0n/cursorlume": {
       "nameWithOwner": "benedicti0n/cursorlume",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "ea7e0f34ea4b8f3097542fdfe4b953825e8a35ed",
+      "defaultBranchCommitCount": 2,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 2,
+      "additions": 2965,
+      "deletions": 1,
       "topLanguages": {
         "Swift": 66063,
         "Shell": 838
       },
-      "lastCalculatedAt": "2026-07-11T06:05:25.981Z"
+      "lastCalculatedAt": "2026-07-11T06:29:00.298Z"
     },
     "benedicti0n/PromptMyUI": {
       "nameWithOwner": "benedicti0n/PromptMyUI",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "e65a31635421ecf686c03bee1a89cb7074bdcc5b",
+      "defaultBranchCommitCount": 6,
       "stars": 1,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 6,
+      "additions": 15142,
+      "deletions": 168,
       "topLanguages": {
         "TypeScript": 146888,
         "CSS": 3633,
         "JavaScript": 559
       },
-      "lastCalculatedAt": "2026-07-11T06:05:26.742Z"
+      "lastCalculatedAt": "2026-07-11T06:29:01.227Z"
     },
     "benedicti0n/clipforge": {
       "nameWithOwner": "benedicti0n/clipforge",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "14d5b0b72d4319e454fdf96c6cb61e789ac35bc8",
+      "defaultBranchCommitCount": 132,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 132,
+      "additions": 135695,
+      "deletions": 76388,
       "topLanguages": {
         "TypeScript": 647621,
         "CSS": 194490,
         "JavaScript": 1893,
         "HTML": 1095
       },
-      "lastCalculatedAt": "2026-07-11T06:05:27.509Z"
+      "lastCalculatedAt": "2026-07-11T06:29:02.196Z"
     },
     "benedicti0n/videogen": {
       "nameWithOwner": "benedicti0n/videogen",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "3bf7f8d66352035dc829af2b66998481d5a6b6e1",
+      "defaultBranchCommitCount": 1,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
+      "userCommitCount": 1,
+      "additions": 1,
       "deletions": 0,
       "topLanguages": {},
-      "lastCalculatedAt": "2026-07-11T06:05:28.354Z"
+      "lastCalculatedAt": "2026-07-11T06:29:03.106Z"
     },
     "benedicti0n/bruno-simon-3js-webgl": {
       "nameWithOwner": "benedicti0n/bruno-simon-3js-webgl",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "7971960f9fae15c2ae1295429a3c3c9b3cd262e4",
+      "defaultBranchCommitCount": 3,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
+      "userCommitCount": 3,
+      "additions": 1171,
       "deletions": 0,
       "topLanguages": {
         "JavaScript": 2054,
         "HTML": 654
       },
-      "lastCalculatedAt": "2026-07-11T06:05:29.192Z"
+      "lastCalculatedAt": "2026-07-11T06:29:04.048Z"
     },
     "benedicti0n/gitpaper": {
       "nameWithOwner": "benedicti0n/gitpaper",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "7b26b989c920b9119db8fc773b5fad086c6eeda8",
+      "defaultBranchCommitCount": 94,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 88,
+      "additions": 20823,
+      "deletions": 3699,
       "topLanguages": {
         "TypeScript": 169354,
         "CSS": 5142,
         "JavaScript": 474
       },
-      "lastCalculatedAt": "2026-07-11T06:05:29.926Z"
+      "lastCalculatedAt": "2026-07-11T06:29:04.971Z"
     },
     "benedicti0n/gitpaper-extension": {
       "nameWithOwner": "benedicti0n/gitpaper-extension",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "e67cf79629e5d4769c50f24e24f059cf4d41d0f4",
+      "defaultBranchCommitCount": 34,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 29,
+      "additions": 24151,
+      "deletions": 15299,
       "topLanguages": {
         "TypeScript": 47412,
         "CSS": 7967,
         "JavaScript": 2778
       },
-      "lastCalculatedAt": "2026-07-11T06:05:30.622Z"
+      "lastCalculatedAt": "2026-07-11T06:29:05.904Z"
     },
     "benedicti0n/cbmo-ai-chat": {
       "nameWithOwner": "benedicti0n/cbmo-ai-chat",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "7c64c9446241e4cbd41ab79cd31ae9745223686d",
+      "defaultBranchCommitCount": 48,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 48,
+      "additions": 15408,
+      "deletions": 1891,
       "topLanguages": {
         "TypeScript": 117411,
         "CSS": 2873,
         "JavaScript": 732
       },
-      "lastCalculatedAt": "2026-07-11T06:05:31.388Z"
+      "lastCalculatedAt": "2026-07-11T06:29:06.799Z"
     },
     "benedicti0n/PORTFOLIO-AmiyaBandopadhyay": {
       "nameWithOwner": "benedicti0n/PORTFOLIO-AmiyaBandopadhyay",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "25e6def7de6ccb3ccdb0e717f8262a50c618d071",
+      "defaultBranchCommitCount": 14,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 14,
+      "additions": 12596,
+      "deletions": 3166,
       "topLanguages": {
         "TypeScript": 100420,
         "CSS": 488,
         "JavaScript": 474
       },
-      "lastCalculatedAt": "2026-07-11T06:05:32.160Z"
+      "lastCalculatedAt": "2026-07-11T06:29:07.729Z"
     },
     "benedicti0n/B-Leaf": {
       "nameWithOwner": "benedicti0n/B-Leaf",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "e0a26054ad2f04661cdb18f10ef0eb6ef9f83f4a",
+      "defaultBranchCommitCount": 17,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 17,
+      "additions": 3795751,
+      "deletions": 5536,
       "topLanguages": {},
-      "lastCalculatedAt": "2026-07-11T06:05:32.943Z"
+      "lastCalculatedAt": "2026-07-11T06:29:08.667Z"
     },
     "benedicti0n/portfolio": {
       "nameWithOwner": "benedicti0n/portfolio",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "45eff0673b4742c873b138fb758e9260ff401c85",
+      "defaultBranchCommitCount": 72,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 72,
+      "additions": 39718,
+      "deletions": 19678,
       "topLanguages": {
         "TypeScript": 46606,
         "CSS": 2485,
         "JavaScript": 2441
       },
-      "lastCalculatedAt": "2026-07-11T06:05:33.937Z"
+      "lastCalculatedAt": "2026-07-11T06:29:09.916Z"
     },
     "benedicti0n/litcode-scrapper": {
       "nameWithOwner": "benedicti0n/litcode-scrapper",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "47b5a44c84b91ad4699bed53e61013c30e3db68f",
+      "defaultBranchCommitCount": 3,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 3,
+      "additions": 2523,
+      "deletions": 73,
       "topLanguages": {
         "JavaScript": 11789
       },
-      "lastCalculatedAt": "2026-07-11T06:05:34.698Z"
+      "lastCalculatedAt": "2026-07-11T06:29:10.785Z"
     },
     "benedicti0n/snow-event-decor": {
       "nameWithOwner": "benedicti0n/snow-event-decor",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "fb7f838bb4bbe6777ded6b5523c62530583b001a",
+      "defaultBranchCommitCount": 31,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 31,
+      "additions": 8023,
+      "deletions": 268,
       "topLanguages": {
         "TypeScript": 53151,
         "JavaScript": 528,
         "CSS": 274
       },
-      "lastCalculatedAt": "2026-07-11T06:05:35.466Z"
+      "lastCalculatedAt": "2026-07-11T06:29:11.682Z"
     },
     "benedicti0n/jobsforce.ai": {
       "nameWithOwner": "benedicti0n/jobsforce.ai",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "06072f76bb6e456a93e41bde27dbe23fc38963c1",
+      "defaultBranchCommitCount": 44,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 44,
+      "additions": 30763,
+      "deletions": 6862,
       "topLanguages": {
         "TypeScript": 420003,
         "JavaScript": 69453,
         "CSS": 6147
       },
-      "lastCalculatedAt": "2026-07-11T06:05:36.245Z"
+      "lastCalculatedAt": "2026-07-11T06:29:12.582Z"
     },
     "benedicti0n/cuberto-clone": {
       "nameWithOwner": "benedicti0n/cuberto-clone",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "280eb2a1ec200a0a5d324e94b126ef9f1a50034a",
+      "defaultBranchCommitCount": 38,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 38,
+      "additions": 27554,
+      "deletions": 5146,
       "topLanguages": {
         "TypeScript": 71225,
         "CSS": 5485,
         "JavaScript": 474
       },
-      "lastCalculatedAt": "2026-07-11T06:05:37.035Z"
+      "lastCalculatedAt": "2026-07-11T06:29:13.850Z"
     },
     "benedicti0n/github-live-wallpaper": {
       "nameWithOwner": "benedicti0n/github-live-wallpaper",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "1aa9d0c11c56a08286bb6f46a6e0648b73e425b0",
+      "defaultBranchCommitCount": 202,
       "stars": 1,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 202,
+      "additions": 36672,
+      "deletions": 21900,
       "topLanguages": {
         "TypeScript": 120348,
         "CSS": 5307,
         "JavaScript": 734,
         "HTML": 361
       },
-      "lastCalculatedAt": "2026-07-11T06:05:37.809Z"
+      "lastCalculatedAt": "2026-07-11T06:29:14.755Z"
     },
     "benedicti0n/nextjs-portfolio-example": {
       "nameWithOwner": "benedicti0n/nextjs-portfolio-example",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "5c4f3c1b1af049391f98d9938e32d239641ffc53",
+      "defaultBranchCommitCount": 1,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
+      "userCommitCount": 1,
+      "additions": 2622,
       "deletions": 0,
       "topLanguages": {
         "TypeScript": 16279,
@@ -326,60 +349,64 @@
         "CSS": 2481,
         "JavaScript": 72
       },
-      "lastCalculatedAt": "2026-07-11T06:05:38.559Z"
+      "lastCalculatedAt": "2026-07-11T06:29:15.661Z"
     },
     "benedicti0n/chatroom": {
       "nameWithOwner": "benedicti0n/chatroom",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "02fb44d715ca0ae139d013b81adf136e507f7e03",
+      "defaultBranchCommitCount": 34,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 34,
+      "additions": 447551,
+      "deletions": 436248,
       "topLanguages": {
         "TypeScript": 15753,
         "JavaScript": 1523,
         "CSS": 403,
         "HTML": 366
       },
-      "lastCalculatedAt": "2026-07-11T06:05:39.286Z"
+      "lastCalculatedAt": "2026-07-11T06:29:16.522Z"
     },
     "benedicti0n/Coursemy": {
       "nameWithOwner": "benedicti0n/Coursemy",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "1be1ea34cdec5e846bdf9b12c89a4b0d42ec98c6",
+      "defaultBranchCommitCount": 120,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 120,
+      "additions": 18013,
+      "deletions": 8574,
       "topLanguages": {
         "TypeScript": 82297,
         "JavaScript": 995,
         "HTML": 366,
         "CSS": 59
       },
-      "lastCalculatedAt": "2026-07-11T06:05:40.002Z"
+      "lastCalculatedAt": "2026-07-11T06:29:17.417Z"
     },
     "benedicti0n/Innovacion": {
       "nameWithOwner": "benedicti0n/Innovacion",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "7daf45534f7f61689dca7f6d723319fc4a9501e5",
+      "defaultBranchCommitCount": 159,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 129,
+      "additions": 3409,
+      "deletions": 3715,
       "topLanguages": {
         "JavaScript": 61450,
         "CSS": 1292
       },
-      "lastCalculatedAt": "2026-07-11T06:05:40.828Z"
+      "lastCalculatedAt": "2026-07-11T06:29:18.362Z"
     },
     "benedicti0n/Playtopia2k24": {
       "nameWithOwner": "benedicti0n/Playtopia2k24",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "5b11cdde6242b3dc3dec68c8d56a4cbaf6b2e962",
+      "defaultBranchCommitCount": 26,
       "stars": 0,
-      "userCommitCount": 0,
+      "userCommitCount": 1,
       "additions": 0,
       "deletions": 0,
       "topLanguages": {
@@ -387,210 +414,223 @@
         "CSS": 16744,
         "HTML": 861
       },
-      "lastCalculatedAt": "2026-07-11T06:05:41.595Z"
+      "lastCalculatedAt": "2026-07-11T06:29:19.314Z"
     },
     "benedicti0n/BlogBox-old": {
       "nameWithOwner": "benedicti0n/BlogBox-old",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "961910a48edb533df65b22e0047d35b6fe79ac19",
+      "defaultBranchCommitCount": 77,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 77,
+      "additions": 11496,
+      "deletions": 1404,
       "topLanguages": {
         "JavaScript": 63458,
         "CSS": 1658,
         "HTML": 361
       },
-      "lastCalculatedAt": "2026-07-11T06:05:42.287Z"
+      "lastCalculatedAt": "2026-07-11T06:29:20.221Z"
     },
     "benedicti0n/INNOVACION2025": {
       "nameWithOwner": "benedicti0n/INNOVACION2025",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "ed435d146f78522f1b432d817118df5bfdfac0e7",
+      "defaultBranchCommitCount": 23,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 22,
+      "additions": 5940,
+      "deletions": 56,
       "topLanguages": {
         "JavaScript": 17413,
         "CSS": 2440,
         "TypeScript": 1899,
         "HTML": 361
       },
-      "lastCalculatedAt": "2026-07-11T06:05:43.091Z"
+      "lastCalculatedAt": "2026-07-11T06:29:21.143Z"
     },
     "benedicti0n/Playtopia-new": {
       "nameWithOwner": "benedicti0n/Playtopia-new",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "ac6fc4b8db4aa226be9a03438233b8712549f0a2",
+      "defaultBranchCommitCount": 40,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 39,
+      "additions": 18806,
+      "deletions": 8244,
       "topLanguages": {
         "JavaScript": 179286,
         "CSS": 15573,
         "HTML": 431
       },
-      "lastCalculatedAt": "2026-07-11T06:05:44.454Z"
+      "lastCalculatedAt": "2026-07-11T06:29:22.028Z"
     },
     "benedicti0n/Playtopia": {
       "nameWithOwner": "benedicti0n/Playtopia",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "8b59aaef656ff557a5cc358d026bdcf78e072f4d",
+      "defaultBranchCommitCount": 93,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 81,
+      "additions": 25834,
+      "deletions": 17466,
       "topLanguages": {
         "JavaScript": 70070,
         "CSS": 21391,
         "SCSS": 1907,
         "HTML": 879
       },
-      "lastCalculatedAt": "2026-07-11T06:05:45.164Z"
+      "lastCalculatedAt": "2026-07-11T06:29:22.941Z"
     },
     "benedicti0n/Snake-Game": {
       "nameWithOwner": "benedicti0n/Snake-Game",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "e3d2c5e39410a0af4c214894e00d867f32488249",
+      "defaultBranchCommitCount": 14,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 14,
+      "additions": 235,
+      "deletions": 26,
       "topLanguages": {
         "JavaScript": 3981,
         "HTML": 449,
         "CSS": 309
       },
-      "lastCalculatedAt": "2026-07-11T06:05:45.848Z"
+      "lastCalculatedAt": "2026-07-11T06:29:23.842Z"
     },
     "benedicti0n/todo-app-js": {
       "nameWithOwner": "benedicti0n/todo-app-js",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "317e19f8fe4ad53cd3913d0ecaa09ace9da48ae0",
+      "defaultBranchCommitCount": 9,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 9,
+      "additions": 214,
+      "deletions": 61,
       "topLanguages": {
         "JavaScript": 1677,
         "HTML": 1338,
         "CSS": 811
       },
-      "lastCalculatedAt": "2026-07-11T06:05:46.569Z"
+      "lastCalculatedAt": "2026-07-11T06:29:24.769Z"
     },
     "benedicti0n/Valentine-Card": {
       "nameWithOwner": "benedicti0n/Valentine-Card",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "f3a7c597ea86422ca05fbab6e02eaf64df7d4080",
+      "defaultBranchCommitCount": 11,
       "stars": 1,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 11,
+      "additions": 1022,
+      "deletions": 37,
       "topLanguages": {
         "JavaScript": 147,
         "CSS": 58
       },
-      "lastCalculatedAt": "2026-07-11T06:05:47.262Z"
+      "lastCalculatedAt": "2026-07-11T06:29:25.649Z"
     },
     "benedicti0n/Image-Search": {
       "nameWithOwner": "benedicti0n/Image-Search",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "7097aaa64d0552736d6aba57b8215ca2258cc8aa",
+      "defaultBranchCommitCount": 9,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 9,
+      "additions": 4904,
+      "deletions": 127,
       "topLanguages": {
         "JavaScript": 3726,
         "CSS": 2615,
         "HTML": 361
       },
-      "lastCalculatedAt": "2026-07-11T06:05:48.084Z"
+      "lastCalculatedAt": "2026-07-11T06:29:26.561Z"
     },
     "benedicti0n/Weather-App": {
       "nameWithOwner": "benedicti0n/Weather-App",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "ad95b2bf9b9b3c487ebcb90961eff3d54c23f466",
+      "defaultBranchCommitCount": 17,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 17,
+      "additions": 1166,
+      "deletions": 279,
       "topLanguages": {
         "JavaScript": 143,
         "CSS": 58
       },
-      "lastCalculatedAt": "2026-07-11T06:05:48.874Z"
+      "lastCalculatedAt": "2026-07-11T06:29:27.799Z"
     },
     "benedicti0n/infinite-scroll": {
       "nameWithOwner": "benedicti0n/infinite-scroll",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "dcc9ae9b79e77604bdc8688d5b64050463e09bbf",
+      "defaultBranchCommitCount": 10,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 10,
+      "additions": 99,
+      "deletions": 6,
       "topLanguages": {
         "CSS": 618,
         "JavaScript": 611,
         "HTML": 413
       },
-      "lastCalculatedAt": "2026-07-11T06:05:49.625Z"
+      "lastCalculatedAt": "2026-07-11T06:29:28.683Z"
     },
     "benedicti0n/Web-Dev-Assignments": {
       "nameWithOwner": "benedicti0n/Web-Dev-Assignments",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "5eb33e9e9c7c3a14731c0816479324fb7e60f579",
+      "defaultBranchCommitCount": 80,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 12,
+      "additions": 686,
+      "deletions": 66,
       "topLanguages": {
         "HTML": 49534,
         "CSS": 46094,
         "JavaScript": 959
       },
-      "lastCalculatedAt": "2026-07-11T06:05:50.460Z"
+      "lastCalculatedAt": "2026-07-11T06:29:29.641Z"
     },
     "benedicti0n/githubpp": {
       "nameWithOwner": "benedicti0n/githubpp",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "64529274d41b83cd81a4be265e3136b010b88ab6",
+      "defaultBranchCommitCount": 77,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
+      "userCommitCount": 4,
+      "additions": 38,
       "deletions": 0,
       "topLanguages": {
         "CSS": 587775,
         "C#": 12101,
         "JavaScript": 9039
       },
-      "lastCalculatedAt": "2026-07-11T06:05:51.573Z"
+      "lastCalculatedAt": "2026-07-11T06:29:30.593Z"
     },
     "benedicti0n/vivaciousmohunbagan-webpage": {
       "nameWithOwner": "benedicti0n/vivaciousmohunbagan-webpage",
       "defaultBranch": "main",
-      "defaultBranchCommitCount": 0,
+      "defaultBranchOid": "1c8808f2e8365557178e896dc13c0cb11a11b64b",
+      "defaultBranchCommitCount": 6,
       "stars": 0,
-      "userCommitCount": 0,
-      "additions": 0,
-      "deletions": 0,
+      "userCommitCount": 6,
+      "additions": 1029,
+      "deletions": 147,
       "topLanguages": {
         "HTML": 15665,
         "CSS": 7213,
         "JavaScript": 484
       },
-      "lastCalculatedAt": "2026-07-11T06:05:52.316Z"
+      "lastCalculatedAt": "2026-07-11T06:29:31.485Z"
     }
   },
   "totals": {
     "stars": 10,
-    "commits": 0,
-    "additions": 0,
-    "deletions": 0,
-    "netLoc": 0,
+    "commits": 1479,
+    "additions": 4828801,
+    "deletions": 680097,
+    "netLoc": 4148704,
     "topLanguages": {
       "TypeScript": 3396056,
       "CSS": 951409,

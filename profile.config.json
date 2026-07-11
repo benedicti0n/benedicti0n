@@ -6,17 +6,23 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/113491469?u=8a7b4dd96ed1f61ce44174643db60e41bb9a4941&v=4",
     "profileUrl": "https://github.com/benedicti0n"
   },
+  "imageSource": "upload",
+  "imageCrop": {
+    "zoom": 1,
+    "positionX": 50,
+    "positionY": 50
+  },
   "template": {
     "type": "terminal",
-    "theme": "auto"
+    "theme": "dark"
   },
   "avatarEffect": {
-    "type": "minimalAscii",
+    "type": "classicAscii",
     "options": {
-      "characterSet": "@#*:. ",
-      "cellSize": 10,
-      "threshold": 128,
-      "colored": false
+      "characterSet": "@%#*+=-:. ",
+      "cellSize": 8,
+      "contrast": 1,
+      "colored": true
     }
   },
   "fields": {
@@ -46,8 +52,10 @@
       "Mechanical"
     ],
     "contact": {
-      "email": "lbandopadhyay2@gmail.com",
-      "twitter": "asheshtwt"
+      "email": "wegfweg",
+      "website": "gerbgewe",
+      "twitter": "rgewfweg",
+      "linkedin": "ewgewew"
     }
   },
   "dynamicStats": {
@@ -58,6 +66,7 @@
     "includeStars": true,
     "includeCommits": true,
     "includeLoc": true,
-    "includeTopLanguages": true
+    "includeTopLanguages": true,
+    "includeContributedRepos": true
   }
 }
